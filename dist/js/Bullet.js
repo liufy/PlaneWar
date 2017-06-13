@@ -1,0 +1,1 @@
+define(["Spirit"],function(t){function i(i){t.call(this,i),this.speed=-10,this.isCrashFlag=!1,this.target=-300,this.destoryArr=["die1.png","die2.png"]}return i.prototype=new t,i});
