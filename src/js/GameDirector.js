@@ -1,4 +1,7 @@
 define(['Player', 'Enemy'], function(Player,Enemy) {
+	
+	
+	console.log('哈哈哈');
 
 	//导演
 	function GameDirector(level) {
